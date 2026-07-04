@@ -1,5 +1,4 @@
 
-
 # 👨‍💼 Human Resource Management System (HRMS)
 
 A modern Human Resource Management System (HRMS) designed to simplify and automate day-to-day HR operations. The system enables organizations to efficiently manage employees, attendance, leave requests, payroll visibility, and administrative workflows through a secure role-based platform.
