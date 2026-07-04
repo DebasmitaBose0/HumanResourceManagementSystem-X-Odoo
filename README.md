@@ -237,6 +237,8 @@ The project includes detailed Software Requirement Specifications (SRS) covering
 
 **Manisha Debnath**
 **Jishnu Paul**
+**Joita Paul**
+
 
 B.Tech CSE Student | Software Development Enthusiast
 
