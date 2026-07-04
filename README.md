@@ -236,10 +236,10 @@ The project includes detailed Software Requirement Specifications (SRS) covering
 ## 👩‍💻 Author
 
 **Manisha Debnath**
+**Jishnu Paul**
 
 B.Tech CSE Student | Software Development Enthusiast
 
-GitHub: https://github.com/mistu7debnath
 
 ---
 
