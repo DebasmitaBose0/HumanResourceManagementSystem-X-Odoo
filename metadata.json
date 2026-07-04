@@ -1,0 +1,6 @@
+{
+  "name": "Human Resource Management System (HRMS)",
+  "description": "An interactive, role-based Human Resource Management System supporting employee onboarding, attendance check-in/out, leave applications, approval workflows, and payroll management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
